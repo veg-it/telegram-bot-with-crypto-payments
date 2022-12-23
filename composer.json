@@ -1,0 +1,5 @@
+{
+    "require": {
+        "klev-o/crypto-pay-api": "^1.1"
+    }
+}
