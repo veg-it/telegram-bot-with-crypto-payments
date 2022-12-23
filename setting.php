@@ -1,7 +1,7 @@
 <?php
-$tg_token = ""; //Telegram bot api token
+$tg_token = "5110521495:AAFuxQRQ3YtOYrOg9A-eMGvs9CXa70FHFOc"; //Telegram bot api token
 $cp_token = ""; //Crypto pay api token
-$bot_name = ""; //Input your bot username withot '@' 
+$bot_name = "vv_autobazar_bot"; //Input your bot username withot '@' 
 
 //Message after buy button click
 $buy_message = 'Bot cost 349 USDT for Binance and Bybit!\nSource code - 1499 USDT';
